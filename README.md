@@ -60,9 +60,10 @@ A complete ML + XAI + database-integrated application for advanced fruit detecti
 [View Project](https://github.com/AION-2000/fruit-classification)
 
 ### 🛒 AIOVerse
-![AIOVerse](https://media.giphy.com/media/3o6ZsXQWZ1nX5vkv6I/giphy.gif)  
+![AIOVerse](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 A professional, industry-grade ecosystem of tools, apps, and services with premium UI/UX for e-commerce and business.  
 [View Project](https://github.com/AION-2000/aioverse)
+
 
 ---
 
