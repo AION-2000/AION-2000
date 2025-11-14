@@ -1,29 +1,27 @@
-# Hi there, I'm Shihab Shahriar Aion 👋
+# 👋 Hi there, I'm Shihab Shahriar Aion
 
 ![Welcome Banner](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**, always building, learning, and exploring new technologies.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**. I love building innovative apps, exploring AI, and crafting clean, user-focused designs.
 
 ---
 
 ## 🚀 About Me
 
-![About Me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xod3Y2Z3BiOGlyZnZxcGJkcXVxb2swMGtjMGF4ZXEwbjFuMGJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ynCEtlgMPAeNAqdnu/giphy.gif)
+![About Me](https://media.giphy.com/media/3o7aCVb9vZR0qG1j3i/giphy.gif)
 
 > 💡 “I build, I learn, I innovate — one project at a time.”
 
-* 🔧 **Full Stack Development:** Laravel, Node.js, React, Next.js  
-* 📱 **Mobile Development:** Flutter, React Native, Kotlin, Java  
-* 🤖 **AI & Deep Learning Enthusiast:** ML models & XAI  
-* 🗄️ Experienced with **APIs, cloud services, and databases**  
-* 🎨 UI/UX lover, focusing on clean and user‑centric designs  
-* 💼 Open to collaborating on **production‑grade projects**
+- 🔧 Full Stack Development: Laravel, Node.js, React, Next.js  
+- 📱 Mobile Development: Flutter, React Native, Kotlin, Java  
+- 🤖 AI & Deep Learning: ML models & XAI  
+- 🗄️ API integrations, cloud services, and databases  
+- 🎨 UI/UX lover, focusing on clean, modern designs  
+- 💼 Open to collaborating on **production-ready projects**
 
 ---
 
 ## 🛠️ Tech Stack
-
-![Tech Stack Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThpZ3ZpMDR2aTJmN3h0YXJ4bHI4NXB3dDB1d3VwYzU5NTI0Mmd1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -54,23 +52,19 @@ Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mob
 
 ---
 
-![Divider](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
 ## 📌 Featured Projects
 
 ### 🌱 Fruit Classification with Deep Learning & XAI
 ![Fruit App](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-A complete ML + XAI + database-integrated application for advanced fruit detection.  
+A complete ML + XAI + database-integrated app for advanced fruit detection.  
 [View Project](https://github.com/AION-2000/fruit-classification)
 
 ### 🛒 AIOVerse
 ![AIOVerse](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
-A professional, industry-grade ecosystem of tools, apps, and services built with premium UI/UX.  
+A professional, industry-grade ecosystem of tools, apps, and services with premium UI/UX.  
 [View Project](https://github.com/AION-2000/aioverse)
 
 ---
-
-![Divider](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ## 🧠 Language Expertise
 
@@ -95,9 +89,9 @@ A professional, industry-grade ecosystem of tools, apps, and services built with
 
 ![Connect Animation](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
 
-* **LinkedIn:** [Shihab Shahriar Aion](https://www.linkedin.com/in/shihab-shahriar-aion-a1i2o3n4/)  
-* **GitHub:** [AION-2000](https://github.com/AION-2000)  
-* **Email:** [aionshihabshahriar@gmail.com](mailto:aionshihabshahriar@gmail.com)
+- **LinkedIn:** [Shihab Shahriar Aion](https://www.linkedin.com/in/shihab-shahriar-aion-a1i2o3n4/)  
+- **GitHub:** [AION-2000](https://github.com/AION-2000)  
+- **Email:** [aionshihabshahriar@gmail.com](mailto:aionshihabshahriar@gmail.com)
 
 ---
 
