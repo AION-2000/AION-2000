@@ -4,7 +4,14 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome Banner"/>
 </div>
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**. I love building innovative apps, exploring AI, and crafting clean, user-focused designs.
+<div align="center">
+
+Hi! I'm a **Full-Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**.  
+I love turning ideas into **innovative applications** and exploring the latest in **AI, ML, and modern web technologies**.  
+
+💡 <i>"Building smarter apps, one line of code at a time."</i>
+
+</div>
 
 ---
 
@@ -37,11 +44,11 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 ![React Native](https://img.shields.io/badge/React_Native-0.71-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4-black?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql&logoColor=white)
@@ -115,12 +122,24 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 
 ---
 
+## 🔭 Currently Learning & Exploring
+
+<div align="center">
+- Large Language Models & AI Ops 🤖  
+- Advanced Flutter Animations 📱  
+- Cloud Architecture & DevOps ☁️  
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AION-2000&show_icons=true&theme=tokyonight&hide=javascript,html,css&include_all_commits=true)  
 ![Language Stats](https://skillicons.dev/icons?i=python,nodejs,php,react,flutter)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AION-2000&theme=tokyonight)  
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AION-2000.AION-2000)
 
