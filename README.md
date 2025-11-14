@@ -69,11 +69,25 @@ A professional, industry-grade ecosystem of tools, apps, and services with premi
 
 ## 🧠 Language Expertise
 
-![Python GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) Python 🐍  
-![JavaScript GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif) JavaScript / Node.js ⚡  
-![PHP GIF](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif) PHP / Laravel 🔧  
-![React GIF](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif) React / Next.js ⚛️  
-![Flutter GIF](https://media.giphy.com/media/3o7aD4iKicN1AwJ1Ha/giphy.gif) Flutter / Mobile Development 📱
+<div align="center">
+
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)  
+**Python** 🐍 – Experienced in ML, AI, and backend development  
+
+![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)  
+**JavaScript / Node.js** ⚡ – Frontend and backend development  
+
+![PHP](https://raw.githubusercontent.com/github/explore/main/topics/php/php.png)  
+**PHP / Laravel** 🔧 – Web development and APIs  
+
+![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png)  
+**React / Next.js** ⚛️ – Modern frontend frameworks  
+
+![Flutter](https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png)  
+**Flutter / Mobile Development** 📱 – Cross-platform mobile apps  
+
+</div>
+
 
 ---
 
