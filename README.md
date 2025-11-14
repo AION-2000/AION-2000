@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shihab Shahriar Aion
 
-![Welcome Banner](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**. I love building innovative apps, exploring AI, and crafting clean, user-focused designs.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 
 ## 🚀 About Me
 
-![About Me](https://media.giphy.com/media/3o7aCVb9vZR0qG1j3i/giphy.gif)
+![About Me](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 > 💡 “I build, I learn, I innovate — one project at a time.”
 
@@ -55,12 +55,12 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 ## 📌 Featured Projects
 
 ### 🌱 Fruit Classification with Deep Learning & XAI
-![Fruit App](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-A complete ML + XAI + database-integrated app for advanced fruit detection.  
+![Fruit App](https://media.giphy.com/media/3o7aD4gLOZp3hrB0Yi/giphy.gif)  
+A complete ML + XAI + database-integrated application for advanced fruit detection.  
 [View Project](https://github.com/AION-2000/fruit-classification)
 
 ### 🛒 AIOVerse
-![AIOVerse](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
+![AIOVerse](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 A professional, industry-grade ecosystem of tools, apps, and services with premium UI/UX.  
 [View Project](https://github.com/AION-2000/aioverse)
 
