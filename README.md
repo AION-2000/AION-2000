@@ -1,6 +1,6 @@
 # Hi there, I'm Shihab Shahriar Aion 👋
 
-![Welcome Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZwcjBvNjBtbGJ2d3Y2eTNjaGpmMHhuNTJxM3g4NWQ1dm84Z2Y1YiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/DhstvI3zZ598Nb1rFf/giphy.gif) 
+![Welcome Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**, always building, learning, and exploring new technologies.
 
