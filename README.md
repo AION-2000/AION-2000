@@ -122,7 +122,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AION-2000&show_icons=true&theme=tokyonight&hide=javascript,html,css&include_all_commits=true)  
 ![Language Stats](https://skillicons.dev/icons?i=python,nodejs,php,react,flutter)  
 
-![Visitor Count](https://profile-counter.glitch.me/AION-2000/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AION-2000.AION-2000)
 
 </div>
 
@@ -134,9 +134,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Connect Animation"/>
 
-- **LinkedIn:** [Shihab Shahriar Aion](https://www.linkedin.com/in/shihab-shahriar-aion-a1i2o3n4/)  
-- **GitHub:** [AION-2000](https://github.com/AION-2000)  
-- **Email:** [aionshihabshahriar@gmail.com](mailto:aionshihabshahriar@gmail.com)
+LinkedIn: [Shihab Shahriar Aion](https://www.linkedin.com/in/shihab-shahriar-aion-a1i2o3n4/)  
+GitHub: [AION-2000](https://github.com/AION-2000)  
+Email: [aionshihabshahriar@gmail.com](mailto:aionshihabshahriar@gmail.com)
 
 </div>
 
