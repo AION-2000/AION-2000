@@ -64,15 +64,19 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Mobile App Devel
 
 <div align="center">
 
-### 🌱 Fruit Classification with Deep Learning & XAI
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Fruit App"/>
-A complete ML + XAI + database-integrated application for advanced fruit detection.  
-[View Project](https://github.com/AION-2000/fruit-classification)
-
-### 🛒 AIOVerse
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="AIOVerse"/>
-A professional, industry-grade ecosystem of tools, apps, and services with premium UI/UX for e-commerce and business.  
-[View Project](https://github.com/AION-2000/aioverse)
+<div>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Fruit App"/>
+  <p><b>🌱 Fruit Classification with Deep Learning & XAI</b></p>
+  <p>A complete ML + XAI + database-integrated application for advanced fruit detection.</p>
+  <a href="https://github.com/AION-2000/fruit-classification">View Project</a>
+</div>
+<br>
+<div>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="AIOVerse"/>
+  <p><b>🛒 AIOVerse</b></p>
+  <p>A professional, industry-grade ecosystem of tools, apps, and services with premium UI/UX for e-commerce and business.</p>
+  <a href="https://github.com/AION-2000/aioverse">View Project</a>
+</div>
 
 </div>
 
@@ -82,20 +86,30 @@ A professional, industry-grade ecosystem of tools, apps, and services with premi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>  
-**Python** 🐍 – Experienced in ML, AI, and backend development  
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/>  
-**JavaScript / Node.js** ⚡ – Frontend and backend development  
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/>  
-**PHP / Laravel** 🔧 – Web development and APIs  
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/>  
-**React / Next.js** ⚛️ – Modern frontend frameworks  
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter"/>  
-**Flutter / Mobile Development** 📱 – Cross-platform mobile apps  
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="80"/>
+  <p><b>Python</b> 🐍 – Experienced in ML, AI, and backend development</p>
+</div>
+<br>
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="80"/>
+  <p><b>JavaScript / Node.js</b> ⚡ – Frontend and backend development</p>
+</div>
+<br>
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="80"/>
+  <p><b>PHP / Laravel</b> 🔧 – Web development and APIs</p>
+</div>
+<br>
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="80"/>
+  <p><b>React / Next.js</b> ⚛️ – Modern frontend frameworks</p>
+</div>
+<br>
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="80"/>
+  <p><b>Flutter / Mobile Development</b> 📱 – Cross-platform mobile apps</p>
+</div>
 
 </div>
 
