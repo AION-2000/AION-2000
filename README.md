@@ -1,6 +1,6 @@
 # Hi there, I'm Shihab Shahriar Aion 👋
 
-![Welcome Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mobile App Developer**, and **AI/Deep Learning Enthusiast**, always building, learning, and exploring new technologies.
 
@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mob
 ## 🚀 About Me
 
 ![About Me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xod3Y2Z3BiOGlyZnZxcGJkcXVxb2swMGtjMGF4ZXEwbjFuMGJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ynCEtlgMPAeNAqdnu/giphy.gif)
+
+> 💡 “I build, I learn, I innovate — one project at a time.”
 
 * 🔧 **Full Stack Development:** Laravel, Node.js, React, Next.js  
 * 📱 **Mobile Development:** Flutter, React Native, Kotlin, Java  
@@ -24,44 +26,59 @@ Welcome to my GitHub profile! I'm a passionate **Full‑Stack Developer**, **Mob
 ![Tech Stack Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThpZ3ZpMDR2aTJmN3h0YXJ4bHI4NXB3dDB1d3VwYzU5NTI0Mmd1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### Frontend
-- React, Next.js, Tailwind CSS  
-- JavaScript, HTML/CSS  
-- Flutter, React Native  
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0.71-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
-- Laravel, Node.js, Express, PHP, Python  
+![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4-black?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database
-- MySQL, PostgreSQL, MongoDB, Firebase  
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-10-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Tools & DevOps
-- Git, Docker, GitHub Actions, Postman, Figma  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-20-blue?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+![Divider](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
 ## 📌 Featured Projects
 
-![Projects Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pxOXc0cDI5bXY2dWM4czFodXJhZGRjeDY5aXU3bGk3aW13bTA2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif)
-
 ### 🌱 Fruit Classification with Deep Learning & XAI
-A complete ML + XAI + database‑integrated application for advanced fruit detection and explainability.  
+![Fruit App](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+A complete ML + XAI + database-integrated application for advanced fruit detection.  
 [View Project](https://github.com/AION-2000/fruit-classification)
 
 ### 🛒 AIOVerse
-A professional, industry‑grade ecosystem of tools, apps, and services built with premium UI/UX.  
+![AIOVerse](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
+A professional, industry-grade ecosystem of tools, apps, and services built with premium UI/UX.  
 [View Project](https://github.com/AION-2000/aioverse)
 
 ---
 
+![Divider](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
 ## 🧠 Language Expertise
 
-![Languages Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IzdHd4MzR6bWl4bjU3d3pmdXpoa3hiZHZxamk1NG02aDQ0NDdvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-
-1. **Python** 🐍  
-2. **JavaScript / Node.js** ⚡  
-3. **PHP / Laravel** 🔧  
-4. **React / Next.js** ⚛️  
-5. **Flutter / Mobile Development** 📱  
+![Python GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) Python 🐍  
+![JavaScript GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif) JavaScript / Node.js ⚡  
+![PHP GIF](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif) PHP / Laravel 🔧  
+![React GIF](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif) React / Next.js ⚛️  
+![Flutter GIF](https://media.giphy.com/media/3o7aD4iKicN1AwJ1Ha/giphy.gif) Flutter / Mobile Development 📱
 
 ---
 
@@ -70,11 +87,13 @@ A professional, industry‑grade ecosystem of tools, apps, and services built wi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AION-2000&show_icons=true&theme=tokyonight&hide=javascript,html,css&include_all_commits=true)  
 ![Language Stats](https://skillicons.dev/icons?i=python,nodejs,php,react,flutter)
 
+![Visitor Count](https://profile-counter.glitch.me/AION-2000/count.svg)
+
 ---
 
 ## 🌐 Connect With Me
 
-![Connect Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNhZDhycjh5bWVnN2d1dXJxMml0Z2h1eHNqcHdmM2N6ejJ6b2xwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HwBlFQZFcAoUcPHZdX/giphy.gif)
+![Connect Animation](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
 
 * **LinkedIn:** [Shihab Shahriar Aion](https://www.linkedin.com/in/shihab-shahriar-aion-a1i2o3n4/)  
 * **GitHub:** [AION-2000](https://github.com/AION-2000)  
